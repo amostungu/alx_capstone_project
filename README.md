@@ -31,9 +31,18 @@ e)	Social Media Integration
 f)	Mobile App
 g)	Email Newsletter Signup
 
+
 Contact information
 For more information use the contact below; -
 Name: Amos Tungu
 Email: amostungu1@gmail.com
 Github: https://github.com/amostungu
 Twitter: amostungu (@amos_tungu) / X (twitter.com)
+
+Work flowChart
+
+![Worflow](https://github.com/amostungu/alx_capstone_project/assets/122861728/9f6d0e96-892a-4051-9f7e-a9eb28bdb940)
+
+Project Prototype
+
+![Design](https://github.com/amostungu/alx_capstone_project/assets/122861728/60fdedb4-5822-48fb-9d3f-1793a17cef56)
